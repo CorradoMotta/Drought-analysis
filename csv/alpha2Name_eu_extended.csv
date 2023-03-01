@@ -1,0 +1,49 @@
+Name,ISO2,EU28,ISO3
+Albania,AL,TRUE,ALB
+Andorra,AD,FALSE,AND
+Austria,AT,TRUE,AUT
+Belarus,BY,FALSE,BLR
+Belgium,BE,TRUE,BEL
+Bosnia and Herzegovina,BA,TRUE,BIH
+Bulgaria,BG,TRUE,BGR
+Croatia,HR,TRUE,HRV
+Cyprus,CY,TRUE,CYP
+Czech Republic,CZ,TRUE,CZE
+Denmark,DK,TRUE,DNK
+Estonia,EE,TRUE,EST
+Finland,FI,TRUE,FIN
+France,FR,TRUE,FRA
+Georgia,GE,FALSE,GEO
+Germany,DE,TRUE,DEU
+Greece,EL,TRUE,GRC
+Hungary,HU,TRUE,HUN
+Iceland,IS,FALSE,ISL
+Ireland,IE,TRUE,IRL
+Italy,IT,TRUE,ITA
+Kosovo,XK,FALSE,XKX
+Latvia,LV,TRUE,LVA
+Liechtenstein,LI,FALSE,LIE
+Lithuania,LT,TRUE,LTU
+Luxembourg,LU,TRUE,LUX
+Macedonia,MK,TRUE,MKD
+Malta,MT,TRUE,MLT
+Moldova,MD,FALSE,MDA
+Monaco,MC,FALSE,MCO
+Montenegro,ME,TRUE,MNE
+Netherlands,NL,TRUE,NLD
+Norway,NO,FALSE,NOR
+Poland,PL,TRUE,POL
+Portugal,PT,TRUE,PRT
+Romania,RO,TRUE,ROU
+Russia,RU,FALSE,RUS
+San Marino,SM,FALSE,SMR
+Serbia,RS,TRUE,SRB
+Slovakia,SK,TRUE,SVK
+Slovenia,SI,TRUE,SVN
+Spain,ES,TRUE,ESP
+Sweden,SE,TRUE,SWE
+Switzerland,CH,TRUE,CHE
+Turkey,TR,FALSE,TUR
+Ukraine,UA,FALSE,UKR
+United Kingdom,UK,TRUE,GBR
+Vatican City,VA,FALSE,VAT
