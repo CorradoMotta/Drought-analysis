@@ -7,6 +7,8 @@ Set of notebooks and scripts to perform drought analysis at different NUTS resol
 The `conf` folder contains the configuration file. It is a single file (.ini) used by all scripts and notebooks.
 The `scripts` folder contains the scripts used. Each script can be visualized and examplified by using the available jupyter notebooks.
 
+__Note:__ The drought impact data tables are not uploaded. Make sure to add them to the `csv` folder before running the analysis.
+
 The list of current scripts and associated notebooks is the following:
 
 |Name of the script	| Description | Associated Notebook |
