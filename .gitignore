@@ -78,8 +78,6 @@ target/
 results/
 
 # Private tables
-csv/drought_impact_all.csv
-csv/peseta_inputs.csv
 
 # Jupyter Notebook
 .ipynb_checkpoints
