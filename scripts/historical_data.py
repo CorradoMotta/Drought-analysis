@@ -43,7 +43,7 @@ from conf import conf_ini
 if __name__ =="__main__":
     
     # read configuration file
-    params = conf_ini(""../conf/conf.ini"")
+    params = conf_ini("../conf/conf.ini")
     
     # open dataset
     ds_disk = xarray.open_dataset(params.historical_data['nc_path'])
