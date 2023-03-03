@@ -11,7 +11,7 @@ __Note:__ The drought impact data tables are not uploaded. Make sure to add them
 
 The list of current scripts and associated notebooks is the following:
 
-|Name of the script	| Description | Associated Notebook |
+|Name of the script	| Description | Notebook |
 | :-------------| :----------------------------------------------------------- | :----------------------------------------- |
 |`conf.py`		| Module and class to read and parse the configuration file. | - | 
 |`fill_nuts.py`		| Script to fill NUTS_3 regions without a frequency median value by using the coarser NUTS resolutions | `Fill NUTS_3.ipynb` | 
